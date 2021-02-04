@@ -1,0 +1,5 @@
+Debug/
+.metadata/
+*.o
+*.out
+*.i
